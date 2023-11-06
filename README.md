@@ -1,5 +1,5 @@
 # PNF
-PNF(Player Not Found) is a small multiplayer game made in Unity. Utilizing the Photon Network, users can join or create lobbies for others to join. The game is a simple shooter, using personally made assets and UI. 
+PNF(Player Not Found) is a small multiplayer game made in Unity. Utilizing the Photon Network, users can join or create lobbies for others to join. 
 
 ## Building PNF
 PNF is a Unity game that I built over the summer. It's a project I wanted to build from the ground up, leaving me to create assets, audio, and maps from scratch. This project involved a lot of on-the-spot learning. This involved learning the Unity engine while also grasping the programming behind the Photon Network.
