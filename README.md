@@ -24,3 +24,10 @@ The game itself is my first time tackling the C# language. While I do have exper
 1. Timer doesn't sync across network(all players must put the same time)
 2. Mouse Sensitivity applies to all players(Best to leave at 200)
 3. Mouse Sensitvity by default is 0(Press apply in settings to change this)
+
+## Gameplay Screenshots
+
+![Game Screenshot](screenshots/shot1.PNG)
+![Game Screenshot](screenshots/shot2.PNG)
+![Game Screenshot](screenshots/Shot3.PNG)
+
