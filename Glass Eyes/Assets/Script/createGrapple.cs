@@ -11,9 +11,4 @@ public class createGrapple : MonoBehaviour
     {
         PhotonNetwork.Instantiate(grappleGun.name, grapplePosition.position, Quaternion.identity);
     }
-
-    void Update()
-    {
-        
-    }
 }
